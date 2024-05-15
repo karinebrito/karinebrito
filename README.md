@@ -1,4 +1,4 @@
-### Oie, eu sou a Karine :wave:
+### Olá, eu sou a Karine :wave:
 
 
 Sou uma desenvolvedora front-end apaixonada por música e por tecnologia :blush:
