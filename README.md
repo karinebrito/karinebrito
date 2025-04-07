@@ -1,7 +1,7 @@
-### Olá, eu sou a Karine :wave:
+### Olá, eu sou a Karine!  😄
 
 
-Sou uma desenvolvedora front-end apaixonada por música e por tecnologia :blush:
+Sou uma desenvolvedora front-end apaixonada por música e por tecnologia.
 
 <div align="start"><br>
   <img align="center" alt="Karine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
